@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76.889" height="71.744" viewBox="0 0 76.889 71.744">
+  <g id="Group_28133" data-name="Group 28133" transform="translate(-352.29 -383.8)">
+    <g id="fi_shopping-bag" data-name="fi shopping-bag">
+      <path id="Path_41400" data-name="Path 41400" d="M416.06,426.648v-27.9L405.6,384.8H363.752L353.29,398.749V447.57a6.976,6.976,0,0,0,6.974,6.974H409.09c2.778,0,4.81-.965,5.93-3.317" fill="none" stroke="#454545" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_41401" data-name="Path 41401" d="M398.626,412.7a13.95,13.95,0,1,1-27.9,0" fill="none" stroke="#454545" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_41402" data-name="Path 41402" d="M353.29,398.749h62.77" fill="none" stroke="#454545" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="fi_alert-circle" data-name="fi alert-circle">
+      <path id="Path_41403" data-name="Path 41403" d="M416.06,450.886a12.119,12.119,0,1,0-12.119-12.119h0A12.119,12.119,0,0,0,416.06,450.886Z" fill="none" stroke="#e50019" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_41404" data-name="Path 41404" d="M416.06,443.615h.012" fill="none" stroke="#e50019" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_41405" data-name="Path 41405" d="M416.06,433.919v4.848" fill="none" stroke="#e50019" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

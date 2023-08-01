@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64.907" height="87.661" viewBox="0 0 64.907 87.661">
+  <g id="Group_27744" data-name="Group 27744" transform="translate(-148.676 -278.042)">
+    <g id="_50-phone" data-name="50-phone" transform="translate(166.143 279.042)">
+      <path id="Path_40975" data-name="Path 40975" d="M16.131,86.661h32.15a5.456,5.456,0,0,0,5.16-5.711V6.711A5.456,5.456,0,0,0,48.281,1H12.16A5.456,5.456,0,0,0,7,6.711V51.567" transform="translate(-7 -1)" fill="none" stroke="#454545" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_40976" data-name="Path 40976" d="M12,1V4.792c0,2.094,2.329,3.792,5.2,3.792H27.6c2.873,0,5.2-1.7,5.2-3.792V1" transform="translate(0.818 -1)" fill="none" stroke="#454545" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="Group_27753" data-name="Group 27753" transform="translate(146.69 331.499)">
+      <circle id="Ellipse_14427" data-name="Ellipse 14427" cx="3.185" cy="3.185" r="3.185" transform="translate(16.267 25.11)" fill="none" stroke="#e10019" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Group_27753-2" data-name="Group 27753" transform="translate(12.318 18.74)">
+        <path id="Path_40986" data-name="Path 40986" d="M24.669,19.185A9.822,9.822,0,0,0,17.534,16,9.822,9.822,0,0,0,10.4,19.185" transform="translate(-10.4 -16)" fill="none" stroke="#e10019" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Group_27754" data-name="Group 27754" transform="translate(7.859 12.37)">
+        <path id="Path_40987" data-name="Path 40987" d="M30.087,15.969a16.01,16.01,0,0,0-23.187,0" transform="translate(-6.9 -11)" fill="none" stroke="#e10019" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Group_27755" data-name="Group 27755" transform="translate(3.4 6)">
+        <path id="Path_40988" data-name="Path 40988" d="M35.505,12.88a22.168,22.168,0,0,0-32.105,0" transform="translate(-3.4 -6)" fill="none" stroke="#e10019" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

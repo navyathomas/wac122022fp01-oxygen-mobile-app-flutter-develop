@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67.42" height="87.643" viewBox="0 0 67.42 87.643">
+  <g id="Group_183260" data-name="Group 183260" transform="translate(-219.588 -328.932)">
+    <g id="qwerfg" transform="translate(220.588 355.379)">
+      <path id="Path_155315" data-name="Path 155315" d="M1,13.895V61.473L21.815,49.578,45.6,61.473,66.42,49.578V2L45.6,13.895,21.815,2Z" transform="translate(-1 -2)" fill="none" stroke="#454545" stroke-width="2"/>
+      <path id="Path_155316" data-name="Path 155316" d="M16,6V53.578" transform="translate(28.605 5.895)" fill="none" stroke="#454545" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_155317" data-name="Path 155317" d="M8,2V49.578" transform="translate(12.816 -2)" fill="none" stroke="#454545" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="_11" data-name="11" transform="translate(237.717 329.932)">
+      <g id="Group_183261" data-name="Group 183261" transform="translate(0 0)">
+        <path id="Path_155312" data-name="Path 155312" d="M39.679,19.339c0,14.264-18.339,26.49-18.339,26.49S3,33.6,3,19.339a18.339,18.339,0,1,1,36.679,0Z" transform="translate(-3 -1)" fill="#fff" stroke="red" stroke-linecap="round" stroke-width="2"/>
+        <path id="Path_155313" data-name="Path 155313" d="M15.113,19.226A6.113,6.113,0,1,0,9,13.113,6.113,6.113,0,0,0,15.113,19.226Z" transform="translate(3.226 5.225)" fill="none" stroke="#fd0000" stroke-linecap="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

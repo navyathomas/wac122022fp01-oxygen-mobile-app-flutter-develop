@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_12494" data-name="Rectangle 12494" width="24" height="24" transform="translate(326 745)" fill="#dedede"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_4293" data-name="Mask Group 4293" transform="translate(-326 -745)" clip-path="url(#clip-path)">
+    <g id="fi_grid_1_" data-name="fi_grid (1)" transform="translate(326.57 745.57)">
+      <path id="Path_32386" data-name="Path 32386" d="M20.639,14H14v6.639h6.639Z" transform="translate(-0.567 -0.567)" fill="#e50019" stroke="#e50019" stroke-linecap="round" stroke-width="1.2"/>
+      <path id="Path_32387" data-name="Path 32387" d="M9.639,14H3v6.639H9.639Z" transform="translate(0 -0.567)" fill="#e50019" stroke="#e50019" stroke-linecap="round" stroke-width="1.2"/>
+      <path id="Path_32388" data-name="Path 32388" d="M20.639,3H14V9.639h6.639Z" transform="translate(-0.567)" fill="#e50019" stroke="#e50019" stroke-linecap="round" stroke-width="1.2"/>
+      <path id="Path_32389" data-name="Path 32389" d="M9.639,3H3V9.639H9.639Z" fill="#e50019" stroke="#e50019" stroke-linecap="round" stroke-width="1.2"/>
+    </g>
+  </g>
+</svg>

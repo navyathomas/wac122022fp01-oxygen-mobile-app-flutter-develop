@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "12648018123",
+    "project_id": "oxygen-331f3",
+    "storage_bucket": "oxygen-331f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12648018123:android:5bae6238247f2cb172ab4e",
+        "android_client_info": {
+          "package_name": "com.oxygendigitalshop.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12648018123-o98uo1l4ehm2tt3jl47liusioismj5f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiBzdcj-L7tf8SXh6RnZWkPk592v7vWh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12648018123-o98uo1l4ehm2tt3jl47liusioismj5f9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12648018123-33oq71cjqd2oog40l3rr8fd0vs8gi1la.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oxygendigital.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12648018123:android:9a58a1fccfe3374b72ab4e",
+        "android_client_info": {
+          "package_name": "com.oxygendigitalshop.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12648018123-o98uo1l4ehm2tt3jl47liusioismj5f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiBzdcj-L7tf8SXh6RnZWkPk592v7vWh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12648018123-o98uo1l4ehm2tt3jl47liusioismj5f9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12648018123-33oq71cjqd2oog40l3rr8fd0vs8gi1la.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oxygendigital.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12648018123:android:5e74b9f27c509a2572ab4e",
+        "android_client_info": {
+          "package_name": "com.oxygendigitalshop.app.stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12648018123-o98uo1l4ehm2tt3jl47liusioismj5f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiBzdcj-L7tf8SXh6RnZWkPk592v7vWh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12648018123-o98uo1l4ehm2tt3jl47liusioismj5f9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12648018123-33oq71cjqd2oog40l3rr8fd0vs8gi1la.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oxygendigital.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

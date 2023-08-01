@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="347" height="90" viewBox="0 0 347 90">
+  <g id="Group_182592" data-name="Group 182592" transform="translate(-14 -588)">
+    <g id="Rectangle_57999" data-name="Rectangle 57999" transform="translate(14 588)" fill="#fff" stroke="#ddd" stroke-width="1">
+      <rect width="347" height="90" stroke="none"/>
+      <rect x="0.5" y="0.5" width="346" height="89" fill="none"/>
+    </g>
+    <path id="Path_100688" data-name="Path 100688" d="M0,0H323V66H0Z" transform="translate(26 600)" fill="#b2eddd"/>
+    <text id="Other_EMI_Plans" data-name="Other EMI Plans" transform="translate(47 640)" fill="#1b6a55" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.01em"><tspan x="0" y="0">Other EMI Plans</tspan></text>
+    <g id="Group_182590" data-name="Group 182590" transform="translate(-13 22)">
+      <path id="Path_100687" data-name="Path 100687" d="M0,0H105.859V34H0Z" transform="translate(240 594)" fill="#288e73"/>
+      <text id="View_Plans" data-name="View Plans" transform="translate(260.43 616)" fill="#fff" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">View Plans</tspan></text>
+    </g>
+  </g>
+</svg>

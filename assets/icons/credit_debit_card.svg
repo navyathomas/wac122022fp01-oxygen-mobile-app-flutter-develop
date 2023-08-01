@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_15012" data-name="Rectangle 15012" width="30" height="30" transform="translate(46 172)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_4591" data-name="Mask Group 4591" transform="translate(-46 -172)" clip-path="url(#clip-path)">
+    <g id="fi_credit-card_1_" data-name="fi_credit-card (1)" transform="translate(49.91 175.662)">
+      <path id="Path_41389" data-name="Path 41389" d="M19.345,4H2.835A1.835,1.835,0,0,0,1,5.835V16.842a1.835,1.835,0,0,0,1.835,1.835H19.345a1.834,1.834,0,0,0,1.835-1.835V5.835A1.835,1.835,0,0,0,19.345,4Z" fill="none" stroke="#282c3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3"/>
+      <path id="Path_41390" data-name="Path 41390" d="M1,10H21.18" transform="translate(0 -0.496)" fill="none" stroke="#282c3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3"/>
+      <path id="Path_41391" data-name="Path 41391" d="M1,10H4.7" transform="translate(13.691 3.173)" fill="none" stroke="#282c3f" stroke-linejoin="round" stroke-width="1.3"/>
+    </g>
+  </g>
+</svg>
